@@ -6,27 +6,27 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/Sistema-SIA/librerias/jcalendar-1.4.jar">
+	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/sia_desk/librerias/jcalendar-1.4.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/Sistema-SIA/librerias/jgoodies-common-1.2.0.jar">
+	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/sia_desk/librerias/jgoodies-common-1.2.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/Sistema-SIA/librerias/jgoodies-looks-2.4.1.jar">
+	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/sia_desk/librerias/jgoodies-looks-2.4.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/Sistema-SIA/librerias/junit-4.6.jar">
+	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/sia_desk/librerias/junit-4.6.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/Sistema-SIA/librerias/mysql-connector-java-8.0.26.jar">
+	<classpathentry kind="lib" path="C:/Users/Emmanuel/Documents/GitHub/sia_desk/librerias/mysql-connector-java-8.0.26.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
